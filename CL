@@ -1,0 +1,17 @@
+Version 1.0.98
+
+Improved Performance
+Added SLZ Render Pipeline
+Added Texture Streaming (should work this time)
+Changed Near Plane to 0.01 (was 0.3)
+Added No Name Blocker
+Added OG Loading Screen
+Changed Render Scale to 1 (was0.7)
+Changed Rigless Shirt Shader
+Upgraded Light Probes
+Baked Lighting in Sandbox
+Changed Light Cookie
+Fixed Banning
+Fixed Level 2 Monsters
+Fixed Red Floating Jacket
+Removed PostProcessing(Finding a Workaround)
